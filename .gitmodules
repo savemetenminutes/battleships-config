@@ -1,0 +1,4 @@
+[submodule "volumes-common/directory/var/www/content/battleships"]
+	path = volumes-common/directory/var/www/content/battleships
+	url = https://github.com/savemetenminutes/battleships-app.git
+	branch = master
